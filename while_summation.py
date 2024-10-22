@@ -6,6 +6,4 @@ while x <= number:
   x += 1
   total += x-1
 
-
-
 print (total)
