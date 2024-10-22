@@ -3,7 +3,6 @@ number = int(input())
 x = 1
 total = 0
 while x <= number:
-  print(x)
   x += 1
   total += x-1
 
