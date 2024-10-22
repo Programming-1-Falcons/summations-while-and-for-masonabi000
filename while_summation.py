@@ -9,4 +9,4 @@ while x <= number:
 
 
 
-print ("= " + str(total))
+print (str(total))
