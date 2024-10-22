@@ -1,5 +1,5 @@
 #for Summation code here
-number = int(input("Pick a number: "))
+number = int(input())
 
 total = 0
 
